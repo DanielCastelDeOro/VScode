@@ -1,0 +1,16 @@
+C:\Users\danie\source\repos\VScode\bin\Debug\net5.0\VScode.exe
+C:\Users\danie\source\repos\VScode\bin\Debug\net5.0\VScode.deps.json
+C:\Users\danie\source\repos\VScode\bin\Debug\net5.0\VScode.runtimeconfig.json
+C:\Users\danie\source\repos\VScode\bin\Debug\net5.0\VScode.runtimeconfig.dev.json
+C:\Users\danie\source\repos\VScode\bin\Debug\net5.0\VScode.dll
+C:\Users\danie\source\repos\VScode\bin\Debug\net5.0\ref\VScode.dll
+C:\Users\danie\source\repos\VScode\bin\Debug\net5.0\VScode.pdb
+C:\Users\danie\source\repos\VScode\obj\Debug\net5.0\VScode.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\VScode\obj\Debug\net5.0\VScode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\VScode\obj\Debug\net5.0\VScode.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\VScode\obj\Debug\net5.0\VScode.AssemblyInfo.cs
+C:\Users\danie\source\repos\VScode\obj\Debug\net5.0\VScode.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\VScode\obj\Debug\net5.0\VScode.dll
+C:\Users\danie\source\repos\VScode\obj\Debug\net5.0\ref\VScode.dll
+C:\Users\danie\source\repos\VScode\obj\Debug\net5.0\VScode.pdb
+C:\Users\danie\source\repos\VScode\obj\Debug\net5.0\VScode.genruntimeconfig.cache
